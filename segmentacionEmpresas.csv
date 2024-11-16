@@ -1,0 +1,199 @@
+Empresa;organizacion_juridica;ciudad;Ganancias_netas;score_gasto;sector
+emp1;Limitada;Cartagena;10994;8795.2;Comercio
+emp2;Limitada;Medellin;11134;500;Agro
+emp3;Limitada;Medellin;7486;5988.8;Agro
+emp4;Sociedad por Acciones Simplificada;Santa Marta;8538;6830.4;Energetico
+emp5;Limitada;Villavicencio;4480;448;Construccion
+emp6;Sociedad por Acciones Simplificada;Medellin;6686;2005.8;Construccion
+emp7;Sociedad por Acciones Simplificada;Santa Marta;10649;8519.2;Financiero
+emp8;Limitada;Cali;9911;7928.8;Agro
+emp9;Sociedad por Acciones Simplificada;Bogota;4951;448;Comercio
+emp10;Limitada;Cali;11376;9669.6;Agro
+emp11;Limitada;Villavicencio;3954;395.4;Agro
+emp12;Limitada;Cali;13977;11181.6;Construccion
+emp13;Limitada;Medellin;11134;1804.8;Construccion
+emp14;Limitada;Cali;1668;667.2;Energetico
+emp15;Limitada;Bogota;85;59.5;Construccion
+emp16;Limitada;Pereira;5102;3571.4;Comercio
+emp17;Limitada;Bogota;13134;3940.2;Servicios
+emp18;Persona Natural;Villavicencio;12856;2571.2;Servicios
+emp19;Limitada;Villavicencio;2976;297.6;Agro
+emp20;Limitada;Medellin;3348;334.8;Financiero
+emp21;Persona Natural;Medellin;6621;4634.7;Energetico
+emp22;Persona Natural;Villavicencio;1528;1069.6;Financiero
+emp23;Limitada;Cali;3883;776.6;Comercio
+emp24;Persona Natural;Pereira;9563;8128.55;Financiero
+emp25;Limitada;Pereira;6493;5519.05;Servicios
+emp26;Sociedad por Acciones Simplificada;Pereira;4831;3381.7;Energetico
+emp27;Sociedad por Acciones Simplificada;Pereira;2631;1315.5;Construccion
+emp28;Limitada;Cali;11859;2371.8;Financiero
+emp29;Limitada;Pereira;12856;530;Construccion
+emp30;Persona Natural;Cali;4834;4350.6;Comercio
+emp31;Sociedad por Acciones Simplificada;Pereira;5491;1098.2;Financiero
+emp32;Sociedad por Acciones Simplificada;Cartagena;3377;3039.3;Agro
+emp33;Persona Natural;Cartagena;11665;1166.5;Construccion
+emp34;Sociedad por Acciones Simplificada;Pereira;1947;0;Servicios
+emp35;Sociedad por Acciones Simplificada;Santa Marta;1154;461.6;Comercio
+emp36;Sociedad por Acciones Simplificada;Villavicencio;10096;8581.6;Energetico
+emp37;Sociedad por Acciones Simplificada;Villavicencio;1589;1112.3;Energetico
+emp38;Persona Natural;Villavicencio;1178;117.8;Agro
+emp39;Persona Natural;Villavicencio;1237;371.1;Energetico
+emp40;Sociedad por Acciones Simplificada;Cali;9464;8044.4;Energetico
+emp41;Sociedad por Acciones Simplificada;Santa Marta;2250;2025;Construccion
+emp42;Persona Natural;Villavicencio;6855;685.5;Agro
+emp43;Sociedad por Acciones Simplificada;Medellin;11441;3432.3;Industrial
+emp44;Persona Natural;Bogota;11781;9424.8;Agro
+emp45;Persona Natural;Medellin;8944;7602.4;Financiero
+emp46;Limitada;Cartagena;6402;640.2;Industrial
+emp47;Sociedad por Acciones Simplificada;Villavicencio;14872;11897.6;Industrial
+emp48;Persona Natural;Medellin;14348;11478.4;Servicios
+emp49;Persona Natural;Villavicencio;176;52.8;Transporte
+emp50;Limitada;Cartagena;795;238.5;Comercio
+emp51;Sociedad por Acciones Simplificada;Medellin;7782;2334.6;Transporte
+emp52;Persona Natural;Santa Marta;6876;640.2;Financiero
+emp53;Sociedad por Acciones Simplificada;Medellin;12410;1927;Servicios
+emp54;Limitada;Bogota;11655;9906.75;Agro
+emp55;Limitada;Santa Marta;13631;10904.8;Comercio
+emp56;Limitada;Cartagena;7753;640.2;Industrial
+emp57;Limitada;Medellin;3002;2701.8;Construccion
+emp58;Persona Natural;Santa Marta;12116;3634.8;Servicios
+emp59;Persona Natural;Bogota;10397;9357.3;Servicios
+emp60;Persona Natural;Santa Marta;14882;11905.6;Comercio
+emp61;Sociedad por Acciones Simplificada;Bogota;2484;2235.6;Energetico
+emp62;Persona Natural;Cartagena;4119;823.8;Servicios
+emp63;Limitada;Cartagena;7272;6544.8;Industrial
+emp64;Persona Natural;Villavicencio;12675;10140;Servicios
+emp65;Limitada;Medellin;13452;1345.2;Financiero
+emp66;Persona Natural;Cali;84;42;Comercio
+emp67;Sociedad por Acciones Simplificada;Cartagena;6358;1271.6;Comercio
+emp68;Persona Natural;Villavicencio;14497;11597.6;Comercio
+emp69;Persona Natural;Pereira;12072;2414.4;Industrial
+emp70;Persona Natural;Santa Marta;12410;520;Comercio
+emp71;Persona Natural;Villavicencio;2070;0;Financiero
+emp72;Persona Natural;Bogota;8175;1271.6;Servicios
+emp73;Persona Natural;Villavicencio;730;292;Servicios
+emp74;Sociedad por Acciones Simplificada;Villavicencio;3411;0;Transporte
+emp75;Sociedad por Acciones Simplificada;Cartagena;10897;9807.3;Transporte
+emp76;Sociedad por Acciones Simplificada;Cali;3626;725.2;Construccion
+emp77;Persona Natural;Villavicencio;13874;11099.2;Transporte
+emp78;Sociedad por Acciones Simplificada;Medellin;5223;2089.2;Financiero
+emp79;Limitada;Santa Marta;10726;7508.2;Industrial
+emp80;Limitada;Cali;14836;10385.2;Agro
+emp81;Persona Natural;Villavicencio;3906;3515.4;Comercio
+emp82;Limitada;Pereira;4115;3703.5;Transporte
+emp83;Persona Natural;Cali;1698;679.2;Energetico
+emp84;Sociedad por Acciones Simplificada;Medellin;10086;3025.8;Industrial
+emp85;Limitada;Pereira;5769;5192.1;Transporte
+emp86;Limitada;Cali;14794;1479.4;Energetico
+emp87;Limitada;Cartagena;13504;800;Energetico
+emp88;Sociedad por Acciones Simplificada;Cartagena;13771;1377.1;Industrial
+emp89;Sociedad por Acciones Simplificada;Pereira;660;66;Energetico
+emp90;Limitada;Cali;14218;4265.4;Construccion
+emp91;Sociedad por Acciones Simplificada;Bogota;6955;640.2;Comercio
+emp92;Persona Natural;Cali;10024;3007.2;Industrial
+emp93;Sociedad por Acciones Simplificada;Cartagena;4378;3502.4;Comercio
+emp94;Persona Natural;Cartagena;12478;8734.6;Transporte
+emp95;Limitada;Cali;11205;1120.5;Financiero
+emp96;Persona Natural;Bogota;10822;7575.4;Energetico
+emp97;Limitada;Cartagena;9397;8457.3;Financiero
+emp98;Sociedad por Acciones Simplificada;Medellin;10579;974.1;Construccion
+emp99;Persona Natural;Villavicencio;11529;3458.7;Financiero
+emp100;Persona Natural;Cartagena;1304;391.2;Comercio
+emp101;Sociedad por Acciones Simplificada;Medellin;8989;8090.1;Servicios
+emp102;Limitada;Pereira;5304;2652;Comercio
+emp103;Limitada;Pereira;3105;310.5;Transporte
+emp104;Limitada;Villavicencio;13084;9158.8;Comercio
+emp105;Limitada;Bogota;12497;8747.9;Comercio
+emp106;Sociedad por Acciones Simplificada;Cartagena;12756;10842.6;Comercio
+emp107;Limitada;Cartagena;10553;8970.05;Servicios
+emp108;Persona Natural;Villavicencio;14886;12653.1;Comercio
+emp109;Limitada;Pereira;9711;8739.9;Construccion
+emp110;Limitada;Santa Marta;2781;834.3;Construccion
+emp111;Sociedad por Acciones Simplificada;Medellin;7184;2873.6;Servicios
+emp112;Persona Natural;Cartagena;4179;640.2;Energetico
+emp113;Limitada;Santa Marta;3192;319.2;Industrial
+emp114;Sociedad por Acciones Simplificada;Medellin;3954;3163.2;Construccion
+emp115;Sociedad por Acciones Simplificada;Medellin;2200;1760;Construccion
+emp116;Sociedad por Acciones Simplificada;Pereira;6057;3634.2;Financiero
+emp117;Persona Natural;Medellin;7575;1515;Agro
+emp118;Sociedad por Acciones Simplificada;Santa Marta;13539;4061.7;Construccion
+emp119;Persona Natural;Cali;14156;300;Servicios
+emp120;Limitada;Santa Marta;13689;11635.65;Comercio
+emp121;Sociedad por Acciones Simplificada;Pereira;13894;11809.9;Comercio
+emp122;Sociedad por Acciones Simplificada;Bogota;13745;1374.5;Construccion
+emp123;Persona Natural;Pereira;5224;1567.2;Construccion
+emp124;Limitada;Cartagena;8827;8297.38;Construccion
+emp125;Limitada;Medellin;3338;333.8;Agro
+emp126;Limitada;Villavicencio;2960;296;Financiero
+emp127;Limitada;Bogota;9891;9297.54;Energetico
+emp128;Sociedad por Acciones Simplificada;Santa Marta;14544;12362.4;Servicios
+emp129;Persona Natural;Bogota;323;0;Agro
+emp130;Sociedad por Acciones Simplificada;Cartagena;9379;8816.26;Industrial
+emp131;Sociedad por Acciones Simplificada;Villavicencio;2777;1666.2;Comercio
+emp132;Limitada;Bogota;1140;684;Servicios
+emp133;Persona Natural;Medellin;12908;1290.8;Servicios
+emp134;Persona Natural;Villavicencio;3737;2242.2;Agro
+emp135;Limitada;Pereira;11621;750;Energetico
+emp136;Sociedad por Acciones Simplificada;Bogota;10579;800;Comercio
+emp137;Sociedad por Acciones Simplificada;Villavicencio;7797;7329.18;Transporte
+emp138;Persona Natural;Bogota;10591;9955.54;Servicios
+emp139;Persona Natural;Santa Marta;4527;905.4;Construccion
+emp140;Limitada;Medellin;14016;11913.6;Servicios
+emp141;Persona Natural;Santa Marta;12853;600;Servicios
+emp142;Persona Natural;Pereira;10772;10125.68;Industrial
+emp143;Persona Natural;Bogota;12217;10384.45;Agro
+emp144;Sociedad por Acciones Simplificada;Cartagena;11828;3548.4;Agro
+emp145;Limitada;Cartagena;5979;4185.3;Construccion
+emp146;Sociedad por Acciones Simplificada;Medellin;5830;3498;Transporte
+emp147;Persona Natural;Villavicencio;9080;8807.6;Industrial
+emp148;Sociedad por Acciones Simplificada;Villavicencio;4010;1203;Energetico
+emp149;Limitada;Santa Marta;8439;2531.7;Construccion
+emp150;Sociedad por Acciones Simplificada;Cartagena;6090;3654;Industrial
+emp151;Limitada;Medellin;14979;4493.7;Industrial
+emp152;Sociedad por Acciones Simplificada;Santa Marta;14485;13036.5;Comercio
+emp153;Limitada;Pereira;13806;456;Agro
+emp154;Limitada;Cartagena;5576;2230.4;Industrial
+emp155;Persona Natural;Medellin;1735;173.5;Transporte
+emp156;Limitada;Cartagena;202;40.4;Comercio
+emp157;Sociedad por Acciones Simplificada;Santa Marta;14395;12955.5;Construccion
+emp158;Sociedad por Acciones Simplificada;Medellin;3050;1220;Servicios
+emp159;Sociedad por Acciones Simplificada;Bogota;6829;2048.7;Industrial
+emp160;Limitada;Bogota;5958;4170.6;Energetico
+emp161;Sociedad por Acciones Simplificada;Medellin;1897;0;Servicios
+emp162;Sociedad por Acciones Simplificada;Villavicencio;6160;616;Construccion
+emp163;Sociedad por Acciones Simplificada;Medellin;2392;0;Agro
+emp164;Limitada;Medellin;2978;893.4;Agro
+emp165;Sociedad por Acciones Simplificada;Villavicencio;2776;2498.4;Construccion
+emp166;Limitada;Cali;396;237.6;Transporte
+emp167;Sociedad por Acciones Simplificada;Villavicencio;11192;10072.8;Transporte
+emp168;Sociedad por Acciones Simplificada;Cartagena;12463;11216.7;Energetico
+emp169;Limitada;Villavicencio;11439;3431.7;Construccion
+emp170;Sociedad por Acciones Simplificada;Cali;14641;13176.9;Financiero
+emp171;Sociedad por Acciones Simplificada;Bogota;1256;502.4;Servicios
+emp172;Persona Natural;Cali;10367;3110.1;Industrial
+emp173;Limitada;Villavicencio;1345;269;Servicios
+emp174;Persona Natural;Santa Marta;636;127.2;Agro
+emp175;Persona Natural;Villavicencio;7962;7723.14;Financiero
+emp176;Sociedad por Acciones Simplificada;Villavicencio;5696;3654;Financiero
+emp177;Sociedad por Acciones Simplificada;Medellin;494;444.6;Agro
+emp178;Sociedad por Acciones Simplificada;Cali;11543;1154.3;Construccion
+emp179;Limitada;Cali;754;150.8;Construccion
+emp180;Persona Natural;Bogota;7811;7576.67;Transporte
+emp181;Sociedad por Acciones Simplificada;Santa Marta;3492;0;Transporte
+emp182;Persona Natural;Cali;3243;2270.1;Construccion
+emp183;Sociedad por Acciones Simplificada;Villavicencio;1364;1091.2;Industrial
+emp184;Sociedad por Acciones Simplificada;Medellin;13600;12240;Comercio
+emp185;Persona Natural;Cali;4931;4040.4;Agro
+emp186;Sociedad por Acciones Simplificada;Villavicencio;5014;2242.2;Transporte
+emp187;Limitada;Cartagena;12216;10994.4;Financiero
+emp188;Sociedad por Acciones Simplificada;Medellin;4549;2729.4;Industrial
+emp189;Limitada;Santa Marta;670;67;Construccion
+emp190;Persona Natural;Cali;5772;4040.4;Comercio
+emp191;Persona Natural;Cali;1496;598.4;Agro
+emp192;Persona Natural;Santa Marta;11591;954;Industrial
+emp193;Persona Natural;Pereira;2997;1198.8;Comercio
+emp194;Sociedad por Acciones Simplificada;Bogota;12593;12215.21;Industrial
+emp195;Limitada;Cali;12686;11417.4;Transporte
+emp196;Persona Natural;Santa Marta;4976;1990.4;Construccion
+emp197;Sociedad por Acciones Simplificada;Santa Marta;2187;1312.2;Transporte
+emp198;Sociedad por Acciones Simplificada;Villavicencio;11098;10765.06;Financiero
